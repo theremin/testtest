@@ -1,0 +1,15 @@
+.idea/
+.project
+.settings
+.buildpath
+.DS_Store
+.sass-cache
+/connect.lock
+/npm-debug.log
+/libpeerconnection.log
+log/application.log
+node_modules
+dist
+.tmp
+bower_components
+
